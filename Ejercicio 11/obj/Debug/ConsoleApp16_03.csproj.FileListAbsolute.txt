@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\C#\Programacion II\Trabajo En Clase\ConsoleApp16_03\bin\Debug\ConsoleApp16_03.exe.config
+C:\Users\Usuario\Desktop\C#\Programacion II\Trabajo En Clase\ConsoleApp16_03\bin\Debug\ConsoleApp16_03.exe
+C:\Users\Usuario\Desktop\C#\Programacion II\Trabajo En Clase\ConsoleApp16_03\bin\Debug\ConsoleApp16_03.pdb
+C:\Users\Usuario\Desktop\C#\Programacion II\Trabajo En Clase\ConsoleApp16_03\obj\Debug\ConsoleApp16_03.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\C#\Programacion II\Trabajo En Clase\ConsoleApp16_03\obj\Debug\ConsoleApp16_03.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\Programacion II\Trabajo En Clase\ConsoleApp16_03\obj\Debug\ConsoleApp16_03.exe
+C:\Users\Usuario\Desktop\C#\Programacion II\Trabajo En Clase\ConsoleApp16_03\obj\Debug\ConsoleApp16_03.pdb
