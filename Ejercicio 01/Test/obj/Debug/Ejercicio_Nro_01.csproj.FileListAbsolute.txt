@@ -1,0 +1,10 @@
+C:\GITHUB\Ejercicios del la guia\Ejercicio 01\Test\bin\Debug\Test.exe.config
+C:\GITHUB\Ejercicios del la guia\Ejercicio 01\Test\bin\Debug\Test.exe
+C:\GITHUB\Ejercicios del la guia\Ejercicio 01\Test\bin\Debug\Test.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 01\Test\bin\Debug\Calculo.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 01\Test\bin\Debug\Calculo.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 01\Test\obj\Debug\Ejercicio_Nro_01.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 01\Test\obj\Debug\Ejercicio_Nro_01.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 01\Test\obj\Debug\Ejercicio_Nro_01.csproj.CopyComplete
+C:\GITHUB\Ejercicios del la guia\Ejercicio 01\Test\obj\Debug\Test.exe
+C:\GITHUB\Ejercicios del la guia\Ejercicio 01\Test\obj\Debug\Test.pdb

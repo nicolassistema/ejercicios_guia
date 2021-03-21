@@ -1,0 +1,6 @@
+C:\GITHUB\Ejercicios del la guia\Ejercicio 01\Calculo\bin\Debug\Calculo.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 01\Calculo\bin\Debug\Calculo.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 01\Calculo\obj\Debug\Calculo.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 01\Calculo\obj\Debug\Calculo.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 01\Calculo\obj\Debug\Calculo.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 01\Calculo\obj\Debug\Calculo.pdb
