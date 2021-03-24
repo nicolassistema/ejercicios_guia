@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Ejericicio 05\Calculador\bin\Debug\Calculador.dll
+C:\Users\Usuario\source\repos\Ejericicio 05\Calculador\bin\Debug\Calculador.pdb
+C:\Users\Usuario\source\repos\Ejericicio 05\Calculador\obj\Debug\Calculador.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejericicio 05\Calculador\obj\Debug\Calculador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejericicio 05\Calculador\obj\Debug\Calculador.dll
+C:\Users\Usuario\source\repos\Ejericicio 05\Calculador\obj\Debug\Calculador.pdb

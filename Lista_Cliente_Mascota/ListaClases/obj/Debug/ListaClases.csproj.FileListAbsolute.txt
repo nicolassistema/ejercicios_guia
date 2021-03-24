@@ -1,0 +1,6 @@
+C:\GITHUB\Ejercicios del la guia\Lista_Cliente_Mascota\ListaClases\bin\Debug\ListaClases.dll
+C:\GITHUB\Ejercicios del la guia\Lista_Cliente_Mascota\ListaClases\bin\Debug\ListaClases.pdb
+C:\GITHUB\Ejercicios del la guia\Lista_Cliente_Mascota\ListaClases\obj\Debug\ListaClases.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Lista_Cliente_Mascota\ListaClases\obj\Debug\ListaClases.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Lista_Cliente_Mascota\ListaClases\obj\Debug\ListaClases.dll
+C:\GITHUB\Ejercicios del la guia\Lista_Cliente_Mascota\ListaClases\obj\Debug\ListaClases.pdb

@@ -1,0 +1,7 @@
+C:\GITHUB\Ejercicios del la guia\Ejercicio 04\Ejericicio_Nro_04\bin\Debug\Ejericicio_Nro_04.exe.config
+C:\GITHUB\Ejercicios del la guia\Ejercicio 04\Ejericicio_Nro_04\bin\Debug\Ejericicio_Nro_04.exe
+C:\GITHUB\Ejercicios del la guia\Ejercicio 04\Ejericicio_Nro_04\bin\Debug\Ejericicio_Nro_04.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 04\Ejericicio_Nro_04\obj\Debug\Ejericicio_Nro_04.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 04\Ejericicio_Nro_04\obj\Debug\Ejericicio_Nro_04.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 04\Ejericicio_Nro_04\obj\Debug\Ejericicio_Nro_04.exe
+C:\GITHUB\Ejercicios del la guia\Ejercicio 04\Ejericicio_Nro_04\obj\Debug\Ejericicio_Nro_04.pdb

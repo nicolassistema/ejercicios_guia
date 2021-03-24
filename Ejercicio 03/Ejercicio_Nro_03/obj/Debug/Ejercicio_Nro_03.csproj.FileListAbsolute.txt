@@ -1,0 +1,10 @@
+C:\GITHUB\Ejercicios del la guia\Ejercicio 03\Ejercicio_Nro_03\bin\Debug\Ejercicio_Nro_03.exe.config
+C:\GITHUB\Ejercicios del la guia\Ejercicio 03\Ejercicio_Nro_03\bin\Debug\Ejercicio_Nro_03.exe
+C:\GITHUB\Ejercicios del la guia\Ejercicio 03\Ejercicio_Nro_03\bin\Debug\Ejercicio_Nro_03.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 03\Ejercicio_Nro_03\obj\Debug\Ejercicio_Nro_03.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 03\Ejercicio_Nro_03\obj\Debug\Ejercicio_Nro_03.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 03\Ejercicio_Nro_03\obj\Debug\Ejercicio_Nro_03.exe
+C:\GITHUB\Ejercicios del la guia\Ejercicio 03\Ejercicio_Nro_03\obj\Debug\Ejercicio_Nro_03.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 03\Ejercicio_Nro_03\bin\Debug\Calcular.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 03\Ejercicio_Nro_03\bin\Debug\Calcular.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 03\Ejercicio_Nro_03\obj\Debug\Ejercicio_Nro_03.csproj.CopyComplete

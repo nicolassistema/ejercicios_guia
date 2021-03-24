@@ -1,0 +1,5 @@
+C:\GITHUB\Ejercicios del la guia\Ejercicio 03\Calcular\bin\Debug\Calcular.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 03\Calcular\bin\Debug\Calcular.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 03\Calcular\obj\Debug\Calcular.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 03\Calcular\obj\Debug\Calcular.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 03\Calcular\obj\Debug\Calcular.pdb
