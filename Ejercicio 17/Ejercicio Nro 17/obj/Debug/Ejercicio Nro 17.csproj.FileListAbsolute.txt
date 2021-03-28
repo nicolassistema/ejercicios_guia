@@ -1,0 +1,10 @@
+C:\GITHUB\Ejercicios del la guia\Ejercicio 17\Ejercicio Nro 17\bin\Debug\Ejercicio Nro 17.exe.config
+C:\GITHUB\Ejercicios del la guia\Ejercicio 17\Ejercicio Nro 17\bin\Debug\Ejercicio Nro 17.exe
+C:\GITHUB\Ejercicios del la guia\Ejercicio 17\Ejercicio Nro 17\bin\Debug\Ejercicio Nro 17.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 17\Ejercicio Nro 17\obj\Debug\Ejercicio Nro 17.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 17\Ejercicio Nro 17\obj\Debug\Ejercicio Nro 17.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 17\Ejercicio Nro 17\obj\Debug\Ejercicio Nro 17.exe
+C:\GITHUB\Ejercicios del la guia\Ejercicio 17\Ejercicio Nro 17\obj\Debug\Ejercicio Nro 17.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 17\Ejercicio Nro 17\bin\Debug\Boligrafo.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 17\Ejercicio Nro 17\bin\Debug\Boligrafo.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 17\Ejercicio Nro 17\obj\Debug\Ejercicio Nro 17.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\GITHUB\Ejercicios del la guia\Ejercicio 16\Biblioteca de clases\obj\Debug\Biblioteca de clases.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 16\Biblioteca de clases\bin\Debug\Biblioteca de clases.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 16\Biblioteca de clases\bin\Debug\Biblioteca de clases.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 16\Biblioteca de clases\obj\Debug\Biblioteca de clases.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 16\Biblioteca de clases\obj\Debug\Biblioteca de clases.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 16\Biblioteca de clases\obj\Debug\Biblioteca de clases.pdb

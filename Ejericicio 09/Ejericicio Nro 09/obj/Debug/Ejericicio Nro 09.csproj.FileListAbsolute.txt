@@ -1,0 +1,7 @@
+C:\GITHUB\Ejercicios del la guia\Ejericicio 09\Ejericicio Nro 09\bin\Debug\Ejericicio Nro 09.exe.config
+C:\GITHUB\Ejercicios del la guia\Ejericicio 09\Ejericicio Nro 09\bin\Debug\Ejericicio Nro 09.exe
+C:\GITHUB\Ejercicios del la guia\Ejericicio 09\Ejericicio Nro 09\bin\Debug\Ejericicio Nro 09.pdb
+C:\GITHUB\Ejercicios del la guia\Ejericicio 09\Ejericicio Nro 09\obj\Debug\Ejericicio Nro 09.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Ejericicio 09\Ejericicio Nro 09\obj\Debug\Ejericicio Nro 09.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejericicio 09\Ejericicio Nro 09\obj\Debug\Ejericicio Nro 09.exe
+C:\GITHUB\Ejercicios del la guia\Ejericicio 09\Ejericicio Nro 09\obj\Debug\Ejericicio Nro 09.pdb

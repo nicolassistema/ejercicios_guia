@@ -1,0 +1,6 @@
+C:\GITHUB\Ejercicios del la guia\Ejercicio 17\Boligrafo\obj\Debug\Bibliote de clases.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 17\Boligrafo\obj\Debug\Bibliote de clases.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 17\Boligrafo\obj\Debug\Boligrafo.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 17\Boligrafo\obj\Debug\Boligrafo.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 17\Boligrafo\bin\Debug\Boligrafo.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 17\Boligrafo\bin\Debug\Boligrafo.pdb
