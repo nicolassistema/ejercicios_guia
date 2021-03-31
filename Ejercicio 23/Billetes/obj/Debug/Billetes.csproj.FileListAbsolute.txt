@@ -1,0 +1,6 @@
+C:\GITHUB\Ejercicios del la guia\Ejercicio 20\Billetes\bin\Debug\Billetes.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 20\Billetes\bin\Debug\Billetes.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 20\Billetes\obj\Debug\Billetes.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 20\Billetes\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 20\Billetes\obj\Debug\Billetes.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 20\Billetes\obj\Debug\Billetes.pdb

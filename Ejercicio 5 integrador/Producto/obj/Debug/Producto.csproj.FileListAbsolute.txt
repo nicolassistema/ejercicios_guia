@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Producto\bin\Debug\Producto.dll
+C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Producto\bin\Debug\Producto.pdb
+C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Producto\obj\Debug\Producto.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Producto\obj\Debug\Producto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Producto\obj\Debug\Producto.dll
+C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Producto\obj\Debug\Producto.pdb

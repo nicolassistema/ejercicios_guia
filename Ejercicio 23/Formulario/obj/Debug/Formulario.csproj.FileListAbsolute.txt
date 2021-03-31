@@ -1,0 +1,10 @@
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Formulario\bin\Debug\Formulario.exe.config
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Formulario\bin\Debug\Formulario.exe
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Formulario\bin\Debug\Formulario.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Formulario\obj\Debug\Formulario.frmConversor.resources
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Formulario\obj\Debug\Formulario.exe
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Formulario\obj\Debug\Formulario.pdb

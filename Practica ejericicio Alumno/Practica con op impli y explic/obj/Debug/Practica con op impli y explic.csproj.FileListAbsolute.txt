@@ -1,0 +1,6 @@
+C:\GITHUB\Ejercicios del la guia\Practica ejericicio Alumno\Practica con op impli y explic\bin\Debug\Practica con op impli y explic.dll
+C:\GITHUB\Ejercicios del la guia\Practica ejericicio Alumno\Practica con op impli y explic\bin\Debug\Practica con op impli y explic.pdb
+C:\GITHUB\Ejercicios del la guia\Practica ejericicio Alumno\Practica con op impli y explic\obj\Debug\Practica con op impli y explic.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Practica ejericicio Alumno\Practica con op impli y explic\obj\Debug\Practica con op impli y explic.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Practica ejericicio Alumno\Practica con op impli y explic\obj\Debug\Practica con op impli y explic.dll
+C:\GITHUB\Ejercicios del la guia\Practica ejericicio Alumno\Practica con op impli y explic\obj\Debug\Practica con op impli y explic.pdb

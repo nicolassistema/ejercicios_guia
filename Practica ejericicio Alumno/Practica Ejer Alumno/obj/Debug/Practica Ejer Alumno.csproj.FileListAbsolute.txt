@@ -1,0 +1,10 @@
+C:\GITHUB\Ejercicios del la guia\Practica ejericicio Alumno\Practica Ejer Alumno\bin\Debug\Practica Ejer Alumno.exe.config
+C:\GITHUB\Ejercicios del la guia\Practica ejericicio Alumno\Practica Ejer Alumno\bin\Debug\Practica Ejer Alumno.exe
+C:\GITHUB\Ejercicios del la guia\Practica ejericicio Alumno\Practica Ejer Alumno\bin\Debug\Practica Ejer Alumno.pdb
+C:\GITHUB\Ejercicios del la guia\Practica ejericicio Alumno\Practica Ejer Alumno\bin\Debug\Practica con op impli y explic.dll
+C:\GITHUB\Ejercicios del la guia\Practica ejericicio Alumno\Practica Ejer Alumno\bin\Debug\Practica con op impli y explic.pdb
+C:\GITHUB\Ejercicios del la guia\Practica ejericicio Alumno\Practica Ejer Alumno\obj\Debug\Practica Ejer Alumno.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Practica ejericicio Alumno\Practica Ejer Alumno\obj\Debug\Practica Ejer Alumno.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Practica ejericicio Alumno\Practica Ejer Alumno\obj\Debug\Practica Ejer Alumno.csproj.CopyComplete
+C:\GITHUB\Ejercicios del la guia\Practica ejericicio Alumno\Practica Ejer Alumno\obj\Debug\Practica Ejer Alumno.exe
+C:\GITHUB\Ejercicios del la guia\Practica ejericicio Alumno\Practica Ejer Alumno\obj\Debug\Practica Ejer Alumno.pdb

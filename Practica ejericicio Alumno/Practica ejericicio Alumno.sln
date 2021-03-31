@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica Ejer Alumno", "Practica Ejer Alumno\Practica Ejer Alumno.csproj", "{DFC9FBE5-ABC1-484C-A16B-E612E4AFBEB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica con op impli y explic", "Practica con op impli y explic\Practica con op impli y explic.csproj", "{EFE37E60-6F39-442A-B653-530564392C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC9FBE5-ABC1-484C-A16B-E612E4AFBEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC9FBE5-ABC1-484C-A16B-E612E4AFBEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC9FBE5-ABC1-484C-A16B-E612E4AFBEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC9FBE5-ABC1-484C-A16B-E612E4AFBEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE37E60-6F39-442A-B653-530564392C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE37E60-6F39-442A-B653-530564392C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE37E60-6F39-442A-B653-530564392C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE37E60-6F39-442A-B653-530564392C47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA9E58BB-F597-4A9A-BABB-3C666C016418}
+	EndGlobalSection
+EndGlobal

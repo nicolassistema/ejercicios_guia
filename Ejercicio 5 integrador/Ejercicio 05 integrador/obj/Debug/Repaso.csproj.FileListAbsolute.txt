@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Ejercicio 05 integrador\bin\Debug\Ejercicio 05 integrador.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Ejercicio 05 integrador\bin\Debug\Ejercicio 05 integrador.exe
+C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Ejercicio 05 integrador\bin\Debug\Ejercicio 05 integrador.pdb
+C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Ejercicio 05 integrador\bin\Debug\Producto.dll
+C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Ejercicio 05 integrador\bin\Debug\Producto.pdb
+C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Ejercicio 05 integrador\obj\Debug\Repaso.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Ejercicio 05 integrador\obj\Debug\Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Ejercicio 05 integrador\obj\Debug\Repaso.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Ejercicio 05 integrador\obj\Debug\Ejercicio 05 integrador.exe
+C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Ejercicio 05 integrador\obj\Debug\Ejercicio 05 integrador.pdb
