@@ -8,3 +8,13 @@ C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Ejercicio 05 integrador\obj
 C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Ejercicio 05 integrador\obj\Debug\Repaso.csproj.CopyComplete
 C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Ejercicio 05 integrador\obj\Debug\Ejercicio 05 integrador.exe
 C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Ejercicio 05 integrador\obj\Debug\Ejercicio 05 integrador.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 5 integrador\Ejercicio 05 integrador\bin\Debug\Ejercicio 05 integrador.exe.config
+C:\GITHUB\Ejercicios del la guia\Ejercicio 5 integrador\Ejercicio 05 integrador\bin\Debug\Ejercicio 05 integrador.exe
+C:\GITHUB\Ejercicios del la guia\Ejercicio 5 integrador\Ejercicio 05 integrador\bin\Debug\Ejercicio 05 integrador.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 5 integrador\Ejercicio 05 integrador\bin\Debug\Producto.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 5 integrador\Ejercicio 05 integrador\bin\Debug\Producto.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 5 integrador\Ejercicio 05 integrador\obj\Debug\Repaso.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 5 integrador\Ejercicio 05 integrador\obj\Debug\Repaso.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 5 integrador\Ejercicio 05 integrador\obj\Debug\Repaso.csproj.CopyComplete
+C:\GITHUB\Ejercicios del la guia\Ejercicio 5 integrador\Ejercicio 05 integrador\obj\Debug\Ejercicio 05 integrador.exe
+C:\GITHUB\Ejercicios del la guia\Ejercicio 5 integrador\Ejercicio 05 integrador\obj\Debug\Ejercicio 05 integrador.pdb

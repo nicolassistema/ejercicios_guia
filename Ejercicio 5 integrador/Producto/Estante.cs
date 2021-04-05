@@ -9,7 +9,7 @@ namespace libreria
     public class Estante
     {
 
-
+        
 
         private Producto[] productos;
         private int ubicacionEstante;

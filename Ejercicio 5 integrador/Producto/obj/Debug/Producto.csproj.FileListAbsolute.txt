@@ -4,3 +4,9 @@ C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Producto\obj\Debug\Producto
 C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Producto\obj\Debug\Producto.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Producto\obj\Debug\Producto.dll
 C:\Users\Usuario\source\repos\Ejercicio 5 integrador\Producto\obj\Debug\Producto.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 5 integrador\Producto\bin\Debug\Producto.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 5 integrador\Producto\bin\Debug\Producto.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 5 integrador\Producto\obj\Debug\Producto.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 5 integrador\Producto\obj\Debug\Producto.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 5 integrador\Producto\obj\Debug\Producto.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 5 integrador\Producto\obj\Debug\Producto.pdb

@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\Ejercicio 20\Test\bin\Debug\Test.exe.config
+C:\Users\Usuario\Desktop\Ejercicio 20\Test\bin\Debug\Test.exe
+C:\Users\Usuario\Desktop\Ejercicio 20\Test\bin\Debug\Test.pdb
+C:\Users\Usuario\Desktop\Ejercicio 20\Test\bin\Debug\Ejercicio Nro 20.dll
+C:\Users\Usuario\Desktop\Ejercicio 20\Test\bin\Debug\Ejercicio Nro 20.pdb
+C:\Users\Usuario\Desktop\Ejercicio 20\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Ejercicio 20\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ejercicio 20\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Ejercicio 20\Test\obj\Debug\Test.exe
+C:\Users\Usuario\Desktop\Ejercicio 20\Test\obj\Debug\Test.pdb
