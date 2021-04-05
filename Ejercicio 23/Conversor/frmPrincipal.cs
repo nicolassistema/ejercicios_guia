@@ -29,8 +29,10 @@ namespace Conversor
 
         private void btnLockCotizacion_Click(object sender, EventArgs e)
         {
-            if (!(String.IsNullOrWhiteSpace(txtCotizacionEuro.Text)) && !(String.IsNullOrWhiteSpace(txtCotizacionPeso.Text)) && !(String.IsNullOrWhiteSpace(txtCotizacionDolar.Text)) && !locked)
-            {
+          //  if (!(String.IsNullOrWhiteSpace(txtCotizacionEuro.Text)) && !(String.IsNullOrWhiteSpace(txtCotizacionPeso.Text)) && !(String.IsNullOrWhiteSpace(txtCotizacionDolar.Text)) && !locked)
+                if (!locked)
+
+                {
                 if (!locked)
                 {
                     btnLockCotizacion.ImageIndex = 1;
