@@ -1,0 +1,6 @@
+C:\GITHUB\Ejercicios del la guia\Ejercicio 33 en clase\Entidades\bin\Debug\Entidades.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 33 en clase\Entidades\bin\Debug\Entidades.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 33 en clase\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 33 en clase\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 33 en clase\Entidades\obj\Debug\Entidades.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 33 en clase\Entidades\obj\Debug\Entidades.pdb

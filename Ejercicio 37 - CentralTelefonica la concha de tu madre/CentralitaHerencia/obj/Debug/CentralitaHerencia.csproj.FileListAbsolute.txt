@@ -1,0 +1,6 @@
+C:\GITHUB\Ejercicios del la guia\Ejercicio 37 - CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 37 - CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 37 - CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 37 - CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 37 - CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 37 - CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
