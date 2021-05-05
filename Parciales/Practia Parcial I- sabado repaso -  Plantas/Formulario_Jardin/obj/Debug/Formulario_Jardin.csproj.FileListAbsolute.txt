@@ -1,0 +1,13 @@
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial - sabado repaso -  Plantas\Formulario_Jardin\bin\Debug\Formulario_Jardin.exe.config
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial - sabado repaso -  Plantas\Formulario_Jardin\bin\Debug\Formulario_Jardin.exe
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial - sabado repaso -  Plantas\Formulario_Jardin\bin\Debug\Formulario_Jardin.pdb
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial - sabado repaso -  Plantas\Formulario_Jardin\bin\Debug\Biblioteca.dll
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial - sabado repaso -  Plantas\Formulario_Jardin\bin\Debug\Biblioteca.pdb
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial - sabado repaso -  Plantas\Formulario_Jardin\obj\Debug\Formulario_Jardin.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial - sabado repaso -  Plantas\Formulario_Jardin\obj\Debug\Formulario_Jardin.FrmPrincipal.resources
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial - sabado repaso -  Plantas\Formulario_Jardin\obj\Debug\Formulario_Jardin.Properties.Resources.resources
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial - sabado repaso -  Plantas\Formulario_Jardin\obj\Debug\Formulario_Jardin.csproj.GenerateResource.cache
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial - sabado repaso -  Plantas\Formulario_Jardin\obj\Debug\Formulario_Jardin.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial - sabado repaso -  Plantas\Formulario_Jardin\obj\Debug\Formulario_Jardin.csproj.CopyComplete
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial - sabado repaso -  Plantas\Formulario_Jardin\obj\Debug\Formulario_Jardin.exe
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial - sabado repaso -  Plantas\Formulario_Jardin\obj\Debug\Formulario_Jardin.pdb

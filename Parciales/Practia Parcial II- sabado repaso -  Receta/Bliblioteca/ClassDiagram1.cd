@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Bliblioteca.Ingrediente">
+    <Position X="2.75" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAAAAAoAAAAAEAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ingrediente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bliblioteca.Pera">
+    <Position X="1" Y="6.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAoAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bliblioteca.QuesoAzul">
+    <Position X="12" Y="6.25" Width="4.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Bliblioteca.QuesoAzul.Procedencia" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>QuesoAzul.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAoAAAAAgAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QuesoAzul.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bliblioteca.Receta">
+    <Position X="7.5" Y="0.5" Width="4.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Bliblioteca.Receta.Tipo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Receta.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABAAAAAAEQAAAAAAAAgAAAwAAAAAAAAAAAAA=</HashCode>
+      <FileName>Receta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bliblioteca.Rucula">
+    <Position X="6" Y="6.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rucula.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

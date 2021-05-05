@@ -1,0 +1,13 @@
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\FormCampo\bin\Debug\FormCampo.exe.config
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\FormCampo\bin\Debug\FormCampo.exe
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\FormCampo\bin\Debug\FormCampo.pdb
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\FormCampo\bin\Debug\Bilbioteca.dll
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\FormCampo\bin\Debug\Bilbioteca.pdb
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\FormCampo\obj\Debug\FormCampo.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\FormCampo\obj\Debug\FormCampo.FrmPrincipal.resources
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\FormCampo\obj\Debug\FormCampo.Properties.Resources.resources
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\FormCampo\obj\Debug\FormCampo.csproj.GenerateResource.cache
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\FormCampo\obj\Debug\FormCampo.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\FormCampo\obj\Debug\FormCampo.csproj.CopyComplete
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\FormCampo\obj\Debug\FormCampo.exe
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\FormCampo\obj\Debug\FormCampo.pdb

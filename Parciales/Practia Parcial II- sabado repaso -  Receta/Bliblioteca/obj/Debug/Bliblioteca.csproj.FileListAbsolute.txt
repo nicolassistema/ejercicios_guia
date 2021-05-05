@@ -1,0 +1,6 @@
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Bliblioteca\bin\Debug\Bliblioteca.dll
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Bliblioteca\bin\Debug\Bliblioteca.pdb
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Bliblioteca\obj\Debug\Bliblioteca.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Bliblioteca\obj\Debug\Bliblioteca.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Bliblioteca\obj\Debug\Bliblioteca.dll
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Bliblioteca\obj\Debug\Bliblioteca.pdb

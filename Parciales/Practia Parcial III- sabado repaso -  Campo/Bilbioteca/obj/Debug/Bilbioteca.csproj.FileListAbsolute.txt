@@ -1,0 +1,5 @@
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\Bilbioteca\bin\Debug\Bilbioteca.dll
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\Bilbioteca\bin\Debug\Bilbioteca.pdb
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\Bilbioteca\obj\Debug\Bilbioteca.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\Bilbioteca\obj\Debug\Bilbioteca.dll
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial III- sabado repaso -  Campo\Bilbioteca\obj\Debug\Bilbioteca.pdb

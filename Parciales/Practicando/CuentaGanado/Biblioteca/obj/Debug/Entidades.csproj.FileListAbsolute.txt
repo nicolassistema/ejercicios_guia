@@ -1,0 +1,6 @@
+C:\GITHUB\Ejercicios del la guia\Parciales\Practicando\CuentaGanado\Biblioteca\bin\Debug\Biblioteca.dll
+C:\GITHUB\Ejercicios del la guia\Parciales\Practicando\CuentaGanado\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\GITHUB\Ejercicios del la guia\Parciales\Practicando\CuentaGanado\Biblioteca\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Parciales\Practicando\CuentaGanado\Biblioteca\obj\Debug\Biblioteca.dll
+C:\GITHUB\Ejercicios del la guia\Parciales\Practicando\CuentaGanado\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\GITHUB\Ejercicios del la guia\Parciales\Practicando\CuentaGanado\Biblioteca\obj\Debug\Entidades.csprojAssemblyReference.cache

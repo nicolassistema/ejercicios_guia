@@ -1,0 +1,13 @@
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Receta\bin\Debug\Receta.exe.config
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Receta\bin\Debug\Receta.exe
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Receta\bin\Debug\Receta.pdb
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Receta\bin\Debug\Bliblioteca.dll
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Receta\bin\Debug\Bliblioteca.pdb
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Receta\obj\Debug\Receta.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Receta\obj\Debug\Receta.Properties.Resources.resources
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Receta\obj\Debug\Receta.csproj.GenerateResource.cache
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Receta\obj\Debug\Receta.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Receta\obj\Debug\Receta.csproj.CopyComplete
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Receta\obj\Debug\Receta.exe
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Receta\obj\Debug\Receta.pdb
+C:\GITHUB\Ejercicios del la guia\Parciales\Practia Parcial II- sabado repaso -  Receta\Receta\obj\Debug\Formulario.FrmPrincipal.resources

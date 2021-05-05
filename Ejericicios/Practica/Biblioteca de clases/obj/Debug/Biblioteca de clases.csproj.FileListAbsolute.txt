@@ -1,0 +1,5 @@
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Practica\Biblioteca de clases\bin\Debug\Biblioteca de clases.dll
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Practica\Biblioteca de clases\bin\Debug\Biblioteca de clases.pdb
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Practica\Biblioteca de clases\obj\Debug\Biblioteca de clases.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Practica\Biblioteca de clases\obj\Debug\Biblioteca de clases.dll
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Practica\Biblioteca de clases\obj\Debug\Biblioteca de clases.pdb
