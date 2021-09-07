@@ -1,0 +1,20 @@
+C:\GITHUB\Ejercicios del la guia\Practica ejer 20\Test\bin\Debug\Test.exe.config
+C:\GITHUB\Ejercicios del la guia\Practica ejer 20\Test\bin\Debug\Test.exe
+C:\GITHUB\Ejercicios del la guia\Practica ejer 20\Test\bin\Debug\Test.pdb
+C:\GITHUB\Ejercicios del la guia\Practica ejer 20\Test\bin\Debug\Practica  20.dll
+C:\GITHUB\Ejercicios del la guia\Practica ejer 20\Test\bin\Debug\Practica  20.pdb
+C:\GITHUB\Ejercicios del la guia\Practica ejer 20\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Practica ejer 20\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Practica ejer 20\Test\obj\Debug\Test.csproj.CopyComplete
+C:\GITHUB\Ejercicios del la guia\Practica ejer 20\Test\obj\Debug\Test.exe
+C:\GITHUB\Ejercicios del la guia\Practica ejer 20\Test\obj\Debug\Test.pdb
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Test\bin\Debug\Test.exe.config
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Test\bin\Debug\Test.exe
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Test\bin\Debug\Test.pdb
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Test\bin\Debug\Practica  20.dll
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Test\bin\Debug\Practica  20.pdb
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Test\obj\Debug\Test.csproj.CopyComplete
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Test\obj\Debug\Test.exe
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Test\obj\Debug\Test.pdb

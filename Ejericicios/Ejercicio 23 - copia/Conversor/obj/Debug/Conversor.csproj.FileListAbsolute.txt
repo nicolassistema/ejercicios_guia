@@ -1,0 +1,52 @@
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Conversor\bin\Debug\Conversor.exe.config
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Conversor\bin\Debug\Conversor.exe
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Conversor\bin\Debug\Conversor.pdb
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Conversor\obj\Debug\Conversor.exe
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Conversor\obj\Debug\Conversor.pdb
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Conversor\obj\Debug\Conversor.frmPrincipal.resources
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Conversor\bin\Debug\Practica  20.dll
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Conversor\bin\Debug\Practica  20.pdb
+C:\GITHUB\Ejercicios del la guia\Practica ejer 23\Conversor\obj\Debug\Conversor.csproj.CopyComplete
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Conversor\bin\Debug\Conversor.exe.config
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Conversor\bin\Debug\Conversor.exe
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Conversor\bin\Debug\Conversor.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Conversor\bin\Debug\Practica  20.dll
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Conversor\bin\Debug\Practica  20.pdb
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Conversor\obj\Debug\Conversor.frmPrincipal.resources
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Conversor\obj\Debug\Conversor.csproj.CopyComplete
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Conversor\obj\Debug\Conversor.exe
+C:\GITHUB\Ejercicios del la guia\Ejercicio 23\Conversor\obj\Debug\Conversor.pdb
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23\Conversor\bin\Debug\Conversor.exe.config
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23\Conversor\bin\Debug\Conversor.exe
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23\Conversor\bin\Debug\Conversor.pdb
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23\Conversor\bin\Debug\Practica  20.dll
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23\Conversor\bin\Debug\Practica  20.pdb
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23\Conversor\obj\Debug\Conversor.frmPrincipal.resources
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23\Conversor\obj\Debug\Conversor.csproj.CopyComplete
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23\Conversor\obj\Debug\Conversor.exe
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23\Conversor\obj\Debug\Conversor.pdb
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23 - copia\Conversor\bin\Debug\Conversor.exe.config
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23 - copia\Conversor\bin\Debug\Conversor.exe
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23 - copia\Conversor\bin\Debug\Conversor.pdb
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23 - copia\Conversor\bin\Debug\Practica  20.dll
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23 - copia\Conversor\bin\Debug\Practica  20.pdb
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23 - copia\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23 - copia\Conversor\obj\Debug\Conversor.frmPrincipal.resources
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23 - copia\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23 - copia\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23 - copia\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23 - copia\Conversor\obj\Debug\Conversor.csproj.CopyComplete
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23 - copia\Conversor\obj\Debug\Conversor.exe
+C:\GITHUB\Ejercicios del la guia\Ejericicios\Ejercicio 23 - copia\Conversor\obj\Debug\Conversor.pdb
